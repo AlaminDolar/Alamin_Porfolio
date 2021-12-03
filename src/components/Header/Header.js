@@ -19,7 +19,7 @@ const Header = () => {
         </li>
        
         <li className="nav-item">
-          <a className="nav-link ">Download Resume</a>
+          <a className="nav-link " href="https://drive.google.com/uc?export=download&id=1KXbXNwwgGWzps9sJ5gemWiKAiv7lmVLt">Download Resume</a>
         </li>
       </ul>
      
