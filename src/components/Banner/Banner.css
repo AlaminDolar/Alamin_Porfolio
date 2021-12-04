@@ -1,15 +1,27 @@
-section{
+.section-display{
+    padding-left: 30px;
     display: flex;
-    background-color: rgb(128, 128, 228);
-    /* background-image: url(../../images/banner-images/25580.jpg); */
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 500px;
     
+    background-image: url(../../images/banner-images/25580.jpg);
+    background-repeat: no-repeat;
 }
 
 .half-width{
+    padding: 85px;
+    margin-right: 0px;
+    text-align: start;
+    width: 50%;
     color: white;
-    align-items: flex-start;
+    
+    
+   
 }
-
+p{
+    text-align: justify;
+}
 .half-width img{
-    width: 100%;
+    width: 75%;
 }
