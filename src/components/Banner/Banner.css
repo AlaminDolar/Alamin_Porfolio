@@ -4,9 +4,7 @@
     margin-right: 5%;
     margin-left: 5%;
     height: 500px;
-    
-    background-image: url(../../images/banner-images/25580.jpg);
-    background-repeat: no-repeat;
+   background-color: cornflowerblue;
 }
 
 .half-width{
@@ -24,4 +22,8 @@ p{
 }
 .half-width img{
     width: 75%;
+}
+
+.btn-warning{
+    border-radius: 20px;
 }

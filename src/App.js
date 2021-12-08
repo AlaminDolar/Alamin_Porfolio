@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Header from './components/Header/Header';
+
 import Banner from './components/Banner/Banner';
+import Navigation from './components/Navigation/Navigation';
+import About from './components/About/About';
 
 
 
@@ -10,8 +12,9 @@ import Banner from './components/Banner/Banner';
 function App() {
   return (
     <div className="App">
-      <Header></Header>
+      <Navigation></Navigation>
       <Banner></Banner>
+      <About></About>
     
     </div>
   );

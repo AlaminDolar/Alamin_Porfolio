@@ -1,0 +1,50 @@
+.display{
+   
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 500px;
+    background-color: rgba(226, 253, 231, 0.856);
+   
+}
+
+.Picture-W{
+    padding-top: 6%;
+    width: 40%;
+    }
+
+.text-w{
+    padding-top: 6%;
+    text-align: start;
+    width: 60%;
+    padding-right: 20%;
+}
+
+
+p{
+    text-align: justify;
+}
+.Picture-W img{
+    width: 50%;
+    
+}
+
+.about-section{
+    padding-top: 20px;
+}
+
+.head-line{
+    padding-bottom: 10px;
+    text-align: start;
+    padding-left: 65px;
+    
+
+
+}
+span{
+    color: brown;
+    font-weight: 500;
+}
+.btn-danger{
+    border-radius: 20px;
+}
