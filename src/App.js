@@ -4,6 +4,7 @@ import './App.css';
 import Banner from './components/Banner/Banner';
 import Navigation from './components/Navigation/Navigation';
 import About from './components/About/About';
+import Project from './components/Project/Project';
 
 
 
@@ -15,6 +16,7 @@ function App() {
       <Navigation></Navigation>
       <Banner></Banner>
       <About></About>
+      <Project></Project>
     
     </div>
   );

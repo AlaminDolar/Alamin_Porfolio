@@ -1,0 +1,28 @@
+.project-section{
+    padding-left: 30px;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 700px;
+    padding-top: 30px;
+    
+   background-color: rgb(225, 248, 188);
+}
+
+.head-line{
+
+    text-align: start;
+    padding-left: 65px;
+    }
+
+.section{
+        padding-top: 20px;
+    }
+
+ .c{
+ height: 100%;
+ width: 90%;
+ padding-left: 5%;
+ padding-top: 20px;
+ 
+ }   
