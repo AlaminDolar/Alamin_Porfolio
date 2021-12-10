@@ -1,5 +1,5 @@
 import React from 'react';
-import { Carousel, Container } from 'react-bootstrap';
+import { Carousel, Container,Button } from 'react-bootstrap';
 import one from '../../images/servies image/Freedom-travel.png';
 import two from '../../images/servies image/Watch-Box.png';
 import three from '../../images/servies image/Dental.png';
@@ -46,7 +46,11 @@ const Project = () => {
                 </Carousel>
 
             </Container>
-            <button >Project Details</button>
+            <div className='buttoon-grp'>
+            <Button variant="outline-success">Dentist</Button>{' '}
+  <Button variant="outline-warning">Watch-Box</Button>{' '}
+  <Button variant="outline-danger">Freedom-Travel</Button>{' '}
+            </div>
             </div>
             
             

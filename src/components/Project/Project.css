@@ -3,7 +3,7 @@
     margin-top: 1%;
     margin-right: 5%;
     margin-left: 5%;
-    height: 700px;
+    height: 650px;
     padding-top: 30px;
     
    background-color: rgb(225, 248, 188);
@@ -26,3 +26,7 @@
  padding-top: 20px;
  
  }   
+
+ .button-grp{
+     padding-top:5%;
+ }
