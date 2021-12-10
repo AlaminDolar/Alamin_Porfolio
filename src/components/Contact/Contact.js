@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import './Contact.css'
-import contactImg from '../../../images/my/about-9.jpg'
+import contactImg from '../../images/photo_2021-07-04_17-07-27.jpg'
 import { Col, Row } from 'react-bootstrap';
 import { useForm } from 'react-hook-form';
 import emailjs from 'emailjs-com';
