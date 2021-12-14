@@ -1,0 +1,41 @@
+
+.about{
+    background-color: #45a29e;
+}
+
+
+.text-w{
+    
+    text-align: start;
+    
+    
+}
+
+
+p{
+    text-align: justify;
+}
+
+
+
+.head-line{
+    padding-bottom: 10px;
+    text-align: start;
+    padding-left: 65px;
+    
+
+
+}
+span{
+    color:rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+
+.typeWriter{
+    font-family: sans-serif;
+    font-weight:700;
+    font-size:30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
