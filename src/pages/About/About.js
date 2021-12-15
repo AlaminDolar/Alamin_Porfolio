@@ -16,7 +16,7 @@ const About = () => {
         
     })
     return (
-        <div className='about' id='about'>
+        <div className='about' id='aboutMe'>
             <Container className='p-1'>
             <h2 className='text-light bg-dark p-2 rounded-pill  '>About me</h2>
             </Container>

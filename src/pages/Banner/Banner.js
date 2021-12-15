@@ -17,7 +17,7 @@ const Banner = () => {
         });
     })
     return (
-        <div id="Banner">
+        <div id="home">
              <Container className="  pt-3 p-3 border rounded-3 shadow-lg">
              <Row className="mt-5 mb-5">
                  <Col className="mt-5 "sm={2} md={2} lg={6}>
