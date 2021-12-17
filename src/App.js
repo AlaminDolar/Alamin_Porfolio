@@ -2,7 +2,7 @@
 import './App.css';
 import Home from './pages/Home/Home';
 import Projects from './pages/Projects/Projects';
-// import Contact from './pages/Contact/Contact';
+import Contact from './pages/Contact/Contact';
 import ProdactDetails from'./pages/ProductDetails/ProductDetails';
 import Blogs from './pages/Blogs/Blogs';
 import ParticlesBackground from './ParticleBackground';
@@ -28,9 +28,9 @@ function App() {
         <Projects></Projects>
         </Route>
 
-        {/* <Route path="/contact">
+        <Route path="/contact">
         <Contact></Contact>
-        </Route> */}
+        </Route>
         <Route path="/ProductDetails/:serviceId">
        <ProdactDetails></ProdactDetails>
         </Route>
