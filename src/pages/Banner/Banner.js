@@ -33,7 +33,7 @@ const Banner = () => {
                     />
                     </div>
                     
-                    <a href="" className='btn btn-warning'><strong>Hire Me</strong></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/alamin-dolar-b12b03165/" className='btn btn-warning'><strong>Hire Me</strong></a>
                 </div>
                  </Col>
                  <Col  sm={2} md={2} lg={6}>

@@ -46,7 +46,9 @@ const Contact = () => {
   return (
  <div className='conP'>
 <div className="contact-form " id="contact">
-      <h2>Contact with me</h2>
+<Container className=' pb-3'>
+        <h2 className="text-light bg-dark rounded-pill p-1">Contact Me</h2>
+        </Container>
       <div className="fw-bold"> <hr /> </div>
 
 
