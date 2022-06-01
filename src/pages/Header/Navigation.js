@@ -1,7 +1,6 @@
-import React from 'react';
-import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import { HashLink } from 'react-router-hash-link';
-import './Navigation.css'
+import './Navigation.css';
 const Navigation = () => {
     return (
         <div className="header">
@@ -13,11 +12,11 @@ const Navigation = () => {
                         <Nav className="mx-auto">
                             <Nav.Link className="text-warning" as={HashLink} to="/home#home">Home</Nav.Link>
                             <Nav.Link className="text-warning" as={HashLink} to="/home#aboutMe">About</Nav.Link>
-                            
+
                             <Nav.Link className="text-warning" as={HashLink} to="/home#projects">My Project</Nav.Link>
                             <Nav.Link className="text-warning" as={HashLink} to="/home#contact">Contact Me</Nav.Link>
                             <Nav.Link className="text-warning" as={HashLink} to="/home#blogs">Blog</Nav.Link>
-                            <Nav.Link href="https://drive.google.com/uc?export=download&id=1KXbXNwwgGWzps9sJ5gemWiKAiv7lmVLt" className="text-warning">Download Resume</Nav.Link>
+                            <Nav.Link href="https://drive.google.com/uc?export=download&id=1YGMHjL07R81Dq_tYtQVBhPjHjrCJGUNo" className="text-warning">Download Resume</Nav.Link>
 
                         </Nav>
                     </Navbar.Collapse>

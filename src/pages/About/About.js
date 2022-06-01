@@ -52,7 +52,7 @@ const About = () => {
                             <p>
                                 <span>Tools</span> <br />
                                 Git, Google Chrome, VS Code, Netlify, Heroku, Figma, Photoshop</p>
-                            <a href="https://drive.google.com/uc?export=download&id=11etpoXrIKYtZoA-2Kn8ocf9EEB1VDSW9" className='btn btn-warning rounded-pill'><strong>Download Resume</strong></a>
+                            <a href="https://drive.google.com/uc?export=download&id=1YGMHjL07R81Dq_tYtQVBhPjHjrCJGUNo" className='btn btn-warning rounded-pill'><strong>Download Resume</strong></a>
                         </div>
                     </Col>
 
